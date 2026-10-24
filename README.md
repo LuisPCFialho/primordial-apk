@@ -5,10 +5,10 @@
 Builds de teste do jogo para Android. O código está num repositório privado; aqui só há os APK.
 
 <p>
-  <img src="img/shot_species.png" width="24%">
-  <img src="img/shot_tree.png" width="24%">
-  <img src="img/shot_boosts.png" width="24%">
-  <img src="img/shot_extinct.png" width="24%">
+  <img src="img/shot_1.png" width="24%">
+  <img src="img/shot_2.png" width="24%">
+  <img src="img/shot_3.png" width="24%">
+  <img src="img/shot_4.png" width="24%">
 </p>
 
 ## Instalar
