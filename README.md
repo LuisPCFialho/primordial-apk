@@ -32,9 +32,9 @@
 ## 🎬 Trailer
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=w99szyoVeSs"><img src="img/trailer.gif" width="720" alt="Primordial trailer"></a>
+  <a href="https://www.youtube.com/watch?v=2CLnJJytxhY"><img src="img/trailer.gif" width="720" alt="Primordial trailer"></a>
   <br>
-  <sub>▶ <a href="https://www.youtube.com/watch?v=w99szyoVeSs">Watch it on YouTube with sound</a> · <a href="media/primordial-trailer.mp4">download the MP4</a> · recorded before the cosmic update, so it shows the first 8 eras</sub>
+  <sub>▶ <a href="https://www.youtube.com/watch?v=2CLnJJytxhY">Watch it on YouTube with sound</a> · <a href="media/primordial-trailer.mp4">download the MP4</a></sub>
 </p>
 
 ## ✨ New in 0.4.0: the cosmic update
