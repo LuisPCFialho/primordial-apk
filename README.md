@@ -22,9 +22,9 @@
 </p>
 
 <p align="center">
-  <a href="https://primordial-idle.vercel.app">Website</a> ·
+  <a href="https://primordial-game.vercel.app">Website</a> ·
   <a href="https://github.com/LuisPCFialho/primordial-apk/releases">All versions</a> ·
-  <a href="https://primordial-idle.vercel.app/privacy.html">Privacy policy</a>
+  <a href="https://primordial-game.vercel.app/privacy.html">Privacy policy</a>
 </p>
 
 ---
@@ -134,5 +134,5 @@ The source is private. This repository only hosts the test builds (APK), the tra
 
 <p align="center">
   <img src="img/icon.png" width="72" alt=""><br>
-  <sub>© 2026 BananaWare · <a href="https://primordial-idle.vercel.app">primordial-idle.vercel.app</a></sub>
+  <sub>© 2026 BananaWare · <a href="https://primordial-game.vercel.app">primordial-game.vercel.app</a></sub>
 </p>
